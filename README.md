@@ -10,4 +10,4 @@ Use follow command
 ``` make ```
 
 # Additional Notes
-https://github.com/elemi3/labrabota2-z3-gr14-tarasova-
+https://github.com/elemi3/lab2-task1-gr14-tarasova
